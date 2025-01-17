@@ -1,0 +1,32 @@
+.div{
+  background-color: rgb(96, 238, 238);
+  width: 405px;
+  height: 400px;
+  margin-left: 400px;
+  border-radius: 10px;
+}
+
+h2{
+  padding-left: 125px;
+}
+
+.inp{
+  margin-left: 50px;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(3, 67, 87);
+}
+
+.btn{
+  margin-left: 20px;
+  height: 33px;
+  border-radius: 5px;
+  border: 1px solid rgb(3, 67, 87);
+  background-color: rgb(2, 252, 44);
+}
+
+
+.li{
+  color: rgb(6, 3, 19);
+}
